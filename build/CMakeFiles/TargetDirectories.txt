@@ -1,0 +1,4 @@
+/home/sps/face_recognition/build/CMakeFiles/rebuild_cache.dir
+/home/sps/face_recognition/build/CMakeFiles/edit_cache.dir
+/home/sps/face_recognition/build/CMakeFiles/myplugins.dir
+/home/sps/face_recognition/build/CMakeFiles/arcface-r50-sps.dir
