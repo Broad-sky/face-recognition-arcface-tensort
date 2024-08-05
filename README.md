@@ -4,7 +4,7 @@ IResNe thttps://github.com/iduta/iresnet
 
 ## TensorRT C++ API
 
-```
+```C++
 1. put arcface_backbone_iresnet50.engine into face-recognition-arcface-tensort/build
 
 2. build and run
@@ -26,7 +26,7 @@ sudo ./arcface-r50-sps -d   // deserialize plan file and run inference
 
 ### TensorRT Python API
 
-```
+```C++
 python arcface-r50.py -s   // serialize model to plan file i.e. 'arcface_backbone_iresnet50.engine'
 python arcface-r50.py -d   // deserialize plan file and run inference
 ```
