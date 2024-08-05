@@ -33,4 +33,4 @@ python arcface-r50.py -d   // deserialize plan file and run inference
 
 ### Result
 
-![屏幕截图 2024-08-05 131800](C:\Users\sps\Desktop\屏幕截图 2024-08-05 131800.png)
+![屏幕截图 2024-08-05 131800](./image/屏幕截图 2024-08-05 131800.png)
