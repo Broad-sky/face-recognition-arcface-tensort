@@ -33,4 +33,4 @@ python arcface-r50.py -d   // deserialize plan file and run inference
 
 ### Result
 
-![1](.//image//1.png)
+![12](.//image//12.png)
